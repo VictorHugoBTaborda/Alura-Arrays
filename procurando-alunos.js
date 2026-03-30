@@ -7,6 +7,6 @@ const listaDeAlunosEMedias = [alunos, medias];
 
 function exibeNomeENota(aluno) {
     if(listaDeAlunosEMedia[0].includes(aluno)) {
-console.log('')
+console.log('${}')
     }
 }
