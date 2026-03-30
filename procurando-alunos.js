@@ -6,7 +6,7 @@ const medias = [10, 8, 7.5, 9];
 const listaDeAlunosEMedias = [alunos, medias];
 
 function exibeNomeENota(aluno) {
-    if(listaDeAlunosEMedia[0]) {
-
+    if(listaDeAlunosEMedia[0].includes(aluno)) {
+console.log('')
     }
 }
